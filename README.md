@@ -1,2 +1,1 @@
-TODO:
-Add logo to title
+Sign-up page using HTML forms and validation in JavaScript.
